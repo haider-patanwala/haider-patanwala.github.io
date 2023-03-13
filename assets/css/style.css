@@ -87,6 +87,21 @@ a {
     font-weight: normal;
 }
 
+/* Scrollbar */
+
+::-webkit-scrollbar{
+    width: 0.5rem;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #10A4F8;
+    border-radius: 5rem;
+}
+
+::-webkit-scrollbar-track {
+    background: #151419;
+   
+}
 
 
 
