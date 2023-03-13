@@ -11,6 +11,7 @@
 }
 
 body {
+    scroll-snap-type: y mandatory;
     font-family: "Bai Jamjuree", sans-serif;
     line-height: 1.7;
     color: #cdcdcd
